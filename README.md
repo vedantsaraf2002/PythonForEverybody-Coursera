@@ -6,4 +6,10 @@ This repository is to take help if you get stuck in an assignemnt but please do 
 
 All the codes in this repository is written by me.
 
+You can mail me on vedantsaraf2002@gmail.com for any doubts in the codes in this repository.
+
 Thank you!
+
+Regards,
+Vedant Saraf
+
